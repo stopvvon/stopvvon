@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=I'm+Jiwon😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=I'm+Jiwon😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
 안녕하세요.
 
 ## 🎓Educations & Experiences
-- 삼성 청년 SW아카데미 11th Python 트랙 (2024.01 ~ ing)
+- SSAFY(삼성청년SW아카데미) 11기 Python 트랙 (2024.01 ~ ing)
 - TopView Sightseeing 뉴욕 지사 마케팅 인턴십 (2022.12 ~ 2023.02)
   
 ## 👨‍💻Project
