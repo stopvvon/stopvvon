@@ -4,7 +4,7 @@
 안녕하세요. 비즈니스를 이해하는 개발자, 정지원입니다.
 
 ## 🎓Educations & Experiences
-- 2024.01 ~ 2024.12 삼성청년SW아카데미 11기 이수
+- 2024.01 ~ 2024.12 SSAFY 11기 이수
 - 2022.12 ~ 2023.02 Newyork TopView Marketing Internship
 - 2018.03 ~ 2023.02 경영학과 졸업
   
@@ -12,6 +12,11 @@
 - 2024.10 ~ 2024.11 PADLOCK [교육용 앱 제어와 비콘 자동 출석 서비스]()
 - 2024.08 ~ 2024.10 newStock [뉴스와 주식 모의투자를 통한 경제 교육 서비스](https://github.com/newsAndStock/newStock)
 - 2024.07 ~ 2024.08 버스어디?BUDDY [실시간 셔틀버스 위치 정보 서비스](https://github.com/whereIsTheBusBUDDY/BUDDY)
+
+
+## 🏆Awards
+- 2024.10 삼성청년SW아카데미 특화프로젝트 우수상
+- 2024.08 삼성청년SW아카데미 공통프로젝트 우수상
 
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
