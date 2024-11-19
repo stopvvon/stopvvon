@@ -1,16 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=I'm+Jiwon😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello,+I'm+Jiwon😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-안녕하세요.
+안녕하세요. 비즈니스를 이해하는 개발자, 정지원입니다.
 
 ## 🎓Educations & Experiences
-- SSAFY(삼성청년SW아카데미) 11기 Python 트랙 (2024.01 ~ ing)
-- TopView Sightseeing 뉴욕 지사 마케팅 인턴십 (2022.12 ~ 2023.02)
+- 2024.01 ~ 2024.12 삼성청년SW아카데미 11기 이수
+- 2022.12 ~ 2023.02 Newyork TopView Marketing Internship
+- 2018.03 ~ 2023.02 경영학과 졸업
   
 ## 👨‍💻Project
-- [교육용 앱 제어와 비콘 자동 출석 서비스, PADLOCK]() 2024.10 ~ 2024.11 (5주)
-- [뉴스와 주식 모의투자를 통한 경제 교육 서비스, newStock](https://github.com/newsAndStock/newStock) 2024.08 ~ 2024.10 (7주)
-- [실시간 셔틀버스 위치 정보 서비스, BUDDY](https://github.com/whereIsTheBusBUDDY/BUDDY) 2024.07 ~ 2024.08 (6주)
+- 2024.10 ~ 2024.11 PADLOCK [교육용 앱 제어와 비콘 자동 출석 서비스]()
+- 2024.08 ~ 2024.10 newStock [뉴스와 주식 모의투자를 통한 경제 교육 서비스](https://github.com/newsAndStock/newStock)
+- 2024.07 ~ 2024.08 버스어디?BUDDY [실시간 셔틀버스 위치 정보 서비스](https://github.com/whereIsTheBusBUDDY/BUDDY)
 
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
