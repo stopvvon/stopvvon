@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=222222&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello,+I'm+Jiwon😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=FFFFFF&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello,+I'm+Jiwon😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
 안녕하세요. 비즈니스를 이해하는 개발자, 정지원입니다.
